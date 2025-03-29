@@ -1,7 +1,4 @@
-<div align="left">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/C5616AQE1PLutWRuDJQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517376961730?e=1743033600&v=beta&t=sCa0AeU9SMUtl_25Grd_Tt0iq3edAsPf_V8Itaj3rco"  />
-</div>
-
+![Profile Image](https://raw.githubusercontent.com/bc-era/bc-era/refs/heads/main/architect.jpg)
 ###
 
 <h5 align="left">Bridging the gap between now and what’s next.</h5>
